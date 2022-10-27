@@ -12,7 +12,7 @@ const buttonRestart = document.querySelector("#restart")
 const inverseResult = document.querySelector(".inverse-result")
 
 buttonDiscover.addEventListener("click", () =>
-  console.log(reverseString(String(inputWord.value)))
+  reverseString(String(inputWord.value))
 )
 
 function restartComponents() {
