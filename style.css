@@ -58,9 +58,9 @@ body {
   position: fixed;
   margin-left: auto;
   left: 50%;
-  top: 65%;
+  top: 70%;
   font-size: 3rem;
   text-transform: uppercase;
   letter-spacing: .15rem;
-  transform: translate(-50%, -65%);
+  transform: translate(-50%, -70%);
 }
