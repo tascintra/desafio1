@@ -22,3 +22,9 @@ function restartComponents() {
 }
 
 buttonRestart.addEventListener("click", restartComponents)
+
+inputWord.addEventListener("keypress", (event) => {
+  if (event.key === "Enter") {
+    reverseString(String(inputWord.value))
+  }
+})
