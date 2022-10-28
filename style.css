@@ -60,13 +60,10 @@ body {
 }
 
 .inverse-result {
-  position: fixed;
-  margin-left: auto;
-  left: 50%;
-  top: 80%;
   font-size: 3rem;
   text-transform: uppercase;
   letter-spacing: .15rem;
   font-weight: 600;
-  transform: translate(-50%, -80%);
+  height: 50px;
+  padding-top: 50px;
 }
