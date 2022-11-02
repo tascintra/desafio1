@@ -56,6 +56,7 @@ This project was built using following technologies:
 - CSS
 - JavaScript
 - GIT
+- Figma
 
 <br>
 
