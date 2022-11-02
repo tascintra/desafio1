@@ -16,7 +16,6 @@ Challenge solved for a job selection process.
 <p align="center">
   <a href="#-deploy">Deploy</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#%EF%B8%8F-i-learned">Learned</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-continued-development">Continued development</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#%EF%B8%8F-author">Author</a>
 </p>
 
@@ -61,26 +60,21 @@ This project was built using following technologies:
 
 ## 💻 Project
 
-The main challenge on this project was to build the solution to keep only one drop down menu opened at once. So I had to create the alternance feature with JavaScript. And I also created a function to identify and close the drop down menu when the user clicks outsite of them. I build the responsiveness using media queries and the main content has multiple breakpoints creating the optimal layout for small screens and big screens.
+I solved this challenge by manipulating the string as an array and using a decrementing for to get the string's end and rewrite its content in a new variable.
+The Figma layout can be accessed by [THIS]() link.
 
 <br>
 
 ## 🌎 Deploy
-Live Site URL: [intro-section-tascintra.vercel.app](https://intro-section-tascintra.vercel.app/)
+Live Site URL: [alodiabo-qm.vercel.app](https://alodiabo-qm.vercel.app/)
 <br>
-Solution URL: [frontendmentor.io/solutions/intro-section-with-dropdown-navigation-EL64Xc8-md](https://www.frontendmentor.io/solutions/intro-section-with-dropdown-navigation-EL64Xc8-md)
+Figma Layout: [Figma](https://www.figma.com/proto/6rpa2R3fbfIAmfdh0QM49O/alodiabo?node-id=0%3A1) (You'll need a Figma account)
 
 <br>
 
 ## ✔️ I learned
 
-How to build JavaScript drop down menu interations and mobile menu interations and improved my DOM and positioning skills.
-
-<br>
-
-## 👨‍💻 Continued development
-
-Now for the next project I'll refactor the [loopstudios](https://github.com/tascintra/loopstudios) project that I made some time ago and wasn't able to finish the challenge. The loopstudios project is a landing page that has some interactions with mobile menu and is challenging to make the proposed positioning in the page.
+How to manipulate strings as an Array with JavaScript.
 
 <br>
 
