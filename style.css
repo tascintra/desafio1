@@ -66,4 +66,18 @@ body {
   font-weight: 600;
   height: 50px;
   padding-top: 50px;
+
+}
+
+@media (max-width: 840px) {
+  .logo {
+    width: 75vw;
+    min-width: 375px;
+  }
+}
+
+@media (max-width: 460px) {
+  .input-word {
+    width: 320px
+  }
 }
