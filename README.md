@@ -16,6 +16,7 @@ Challenge solved for a job selection process.
 <p align="center">
   <a href="#-deploy">Deploy</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#%EF%B8%8F-i-learned">Learned</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-continued-development">Continued development</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#%EF%B8%8F-author">Author</a>
 </p>
 
@@ -75,6 +76,12 @@ Figma Layout: [Figma](https://www.figma.com/proto/6rpa2R3fbfIAmfdh0QM49O/alodiab
 ## ✔️ I learned
 
 How to manipulate strings as an Array with JavaScript.
+
+<br>
+
+## 👨‍💻 Continued development
+
+The next step for this project is its refactor using React.
 
 <br>
 
