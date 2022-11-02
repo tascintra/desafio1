@@ -61,7 +61,7 @@ This project was built using following technologies:
 
 ## 💻 Project
 
-I solved this challenge by manipulating the string as an array and using a decrementing for to get the string's end and rewrite its content in a new variable. I also created the Figma layout design.
+For this project I made a joke in the design with the Coca-Cola logo that some people believe to make a strange phrase. I solved this challenge by manipulating the string as an array and using a decrementing for to get the string's end and rewrite its content in a new variable. I also created the Figma layout design.
 
 <br>
 
