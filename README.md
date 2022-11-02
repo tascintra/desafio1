@@ -69,7 +69,7 @@ For this project I made a joke in the design with the Coca-Cola logo that some p
 ## 🌎 Deploy
 Live Site URL: [alodiabo-qm.vercel.app](https://alodiabo-qm.vercel.app/)
 <br>
-Figma Layout: [Figma](https://www.figma.com/proto/6rpa2R3fbfIAmfdh0QM49O/alodiabo?node-id=0%3A1) (You'll need a Figma account)
+Figma Layout: [Figma](https://www.figma.com/file/6rpa2R3fbfIAmfdh0QM49O/alodiabo) (You'll need a Figma account)
 
 <br>
 
