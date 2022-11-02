@@ -61,8 +61,7 @@ This project was built using following technologies:
 
 ## 💻 Project
 
-I solved this challenge by manipulating the string as an array and using a decrementing for to get the string's end and rewrite its content in a new variable.
-The Figma layout can be accessed by [THIS]() link.
+I solved this challenge by manipulating the string as an array and using a decrementing for to get the string's end and rewrite its content in a new variable. I also created the Figma layout design.
 
 <br>
 
